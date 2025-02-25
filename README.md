@@ -3,7 +3,7 @@
 This project changes the background color of a `div` element every second when the "Start" button is clicked and displays the hex code of the current color in the center.
 
 ## 📷 Preview
-<img src="https://github.com/user-attachments/assets/b44a7468-3324-4014-baa4-3dc59d2b34d4" alt="Output Preview" width="500">
+<img src="https://github.com/user-attachments/assets/9ef0cb17-36ee-4c9c-9355-e10f25c427d3" alt="Output Preview" width="500">
 
 
 ## 📌 Features
